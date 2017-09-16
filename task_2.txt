@@ -17,7 +17,7 @@
 <orourke.john@epenergy.com>
  outlook-migration-team@enron.com
  outlook-migration-team@enron.com
- ove@commissioner.com (баг с переносом, реальный e-mail начинается с rem=ove) 
+ ove@commissioner.com (баг с переносом, реальный e-mail начинается с remove) 
  online.service@schwab.com
 <online.service@schwab.com>
  oscar.dalton@enron.com
@@ -30,8 +30,8 @@
  owner-strawbale@crest.org
  owner-strawbale@crest.org
  owner-strawbale@crest.org
- owner-strawbale@crest.org
 <orourke.john@epenergy.com>
+ owner-strawbale@crest.org
 <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com> (id сообщения)
  Outlook.2000@enron.com
  
