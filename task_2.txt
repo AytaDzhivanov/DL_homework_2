@@ -1,4 +1,4 @@
-(\s|<)\<o.\S+@[A-Za-z0-9_-]+(\.[A-Za-z0-9_-]+)*\.[A-Za-z]{2,6}
+(\s|<)\<o.\S+@[\w-]+(\.[\w-]+)*\.[A-Za-z]{2,6}
 34
  outlook.team@enron.com
  outlook.team@enron.com
